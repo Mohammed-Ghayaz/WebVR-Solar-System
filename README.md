@@ -16,7 +16,7 @@
 ## Live Demo
 
 Experience the Solar System live in your browser:
-[Live Demo]()
+[Live Demo](https://mohammed-ghayaz.github.io/WebVR-Solar-System/)
 
 
 
